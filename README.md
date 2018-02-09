@@ -12,4 +12,4 @@ The method used here was UBCF(User Based Collaborative Filter) and the Similarit
 
 When the predicted item ratings are obtained, the top 10 most highly predicted ratings will be returned as the recommendations. The project involved various concepts such as k means clustering algorithm solution for recommending movies to users based on their selection on genre and movie interest. The front end was developed using Shiny package.
 
-Technology : R
+Technology : R, Shiny webframework
